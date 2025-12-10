@@ -1,4 +1,4 @@
-//Tommaso Mantovani 10122025 1.0.0
+//Tommaso Mantovani | 10122025 | 1.0.0
 #include<iostream>
 #include<stdlib.h>
 #include <stdio.h>
